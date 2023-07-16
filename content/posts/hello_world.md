@@ -1,7 +1,7 @@
 ---
 title: "Hello_world"
 date: 2023-07-15T20:15:33-07:00
-draft: true
+draft: false
 ---
 
 ## Introduction

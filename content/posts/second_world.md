@@ -1,7 +1,7 @@
 ---
 title: "Second_world"
 date: 2023-07-15T20:19:22-07:00
-draft: true
+draft: false
 ---
 
 # The Art of Songwriting
